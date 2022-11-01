@@ -1,0 +1,4 @@
+
+> instagram-messages@1.0.0 start
+> node dist/index.js
+
